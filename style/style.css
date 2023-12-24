@@ -1,0 +1,71 @@
+* {
+    background-color: #f9f4f5;
+}
+img {
+    margin-top: 10px;
+    width: 280px;
+    height: 320px;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.top-text {
+    background-color: #502f4c;
+    width: 190px;
+    font-size: 1.21rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 15px;
+    font-weight: 800;
+    padding: 25px;
+    margin: auto;
+    color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+#products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.productsbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #c8b8db;
+    font-size: 1.5rem;
+    width: 380px;
+    height: 480px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.productsbox div {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0 0 0;
+    background-color: #c8b8db;
+}
+
+.productsbox div div {
+    background-color: #502f4c;
+    color: #fff;
+    padding: 10px;
+    margin: 0 40px 0 40px;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.productsbox div div:hover {
+    background-color: #886a84;
+}
+
+.productsbox p {
+    background-color: #502f4c;
+    color: #fff;
+    padding: 10px;
+    margin: 0 40px 0 40px;
+    border-radius: 20px;
+}

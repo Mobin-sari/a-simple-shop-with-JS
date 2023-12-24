@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "bag",
+        "price": "25$",
+        "image": "./bag.jpeg",
+        "alt": "bag product"
+    },
+    {
+        "id": 2,
+        "name": "pen",
+        "price": "2$",
+        "image": "./pen.jpg",
+        "alt": "pen product"
+    },
+    {
+        "id": 3,
+        "name": "phone",
+        "price": "850$",
+        "image": "./phone.jpg",
+        "alt": "phone product"
+    },
+    {
+        "id": 4,
+        "name": "laptop",
+        "price": "1200$",
+        "image": "./laptop.jpg",
+        "alt": "laptop product"
+    },
+    {
+        "id": 5,
+        "name": "tv",
+        "price": "250$",
+        "image": "./tv.png",
+        "alt": "tv product"
+    },
+    {
+        "id": 6,
+        "name": "t-shirt",
+        "price": "20$",
+        "image": "./tshirt.jpg",
+        "alt": "t-shirt product"
+    },
+    {
+        "id": 7,
+        "name": "notebook",
+        "price": "15$",
+        "image": "./notebook.jfif",
+        "alt": "notebook product"
+    },
+    {
+        "id": 8,
+        "name": "book",
+        "price": "35$",
+        "image": "./book.jfif",
+        "alt": "book product"
+    },
+    {
+        "id": 9,
+        "name": "watch",
+        "price": "150$",
+        "image": "./watch.png",
+        "alt": "watch product"
+    },
+    {
+        "id": 10,
+        "name": "camera",
+        "price": "300$",
+        "image": "./camera.jfif",
+        "alt": "camera product"
+    }
+]
